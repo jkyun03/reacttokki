@@ -1,0 +1,11 @@
+.glass-panel {
+  width: min(92vw, 1800px);
+  height: min(85vh, 1500px);
+  margin: 24px auto 0;
+  padding: 32px 36px;
+  border-radius: 24px;
+  background: rgba(255, 255, 255, 0.32);
+  box-sizing: border-box;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
