@@ -1,8 +1,7 @@
 import { useState, useMemo } from "react";
+/*
 import TopTaps from "../../components/Toptaps";
 import GlassPanel from "../../components/GlassPanel";
-/*
-
  * 그리고 return문 최상단을 <GlassPanel>으로 감싸고,
  * <TopTaps /> 를 wrapper 위에 넣으면 됩니다.
  *
