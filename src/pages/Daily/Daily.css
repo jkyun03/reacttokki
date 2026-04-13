@@ -1,0 +1,10 @@
+.daily-page {
+  width: 100vw;
+    min-height: 100vh;
+    margin: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 18px 18px 28px;
+    box-sizing: border-box;
+}
