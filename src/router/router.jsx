@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Monthly from "../pages/Monthly/Monthly";
 import Weekly from "../pages/Weekly/Weekly";
-import Daily from "../pages/Daily/Daily";
+import Daily from "../pages/Daily/DailyPage";
 import Process from "../pages/Process/Process";
 
 export default function Router() {
