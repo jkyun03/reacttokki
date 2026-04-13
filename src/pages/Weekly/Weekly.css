@@ -96,7 +96,6 @@
   flex-direction: column;
 }
 
-/* 핑크색 박스(기둥) 내부의 칸들이 화면 높이에 맞춰 꽉 늘어나도록 수정 */
 .cell {
   flex: 1;
   border-bottom: 1px solid rgba(0, 0, 0, 0.02);
